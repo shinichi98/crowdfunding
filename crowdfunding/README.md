@@ -11,7 +11,7 @@ A simple Ethereum-based crowdfunding decentralized application (dapp) where you 
 ## Running It Locally
 
 ```bash
-git clone https://github.com/openberry-ac/crowdfunding.git
+git clone https://github.com/shinichi98/crowdfunding/tree/main/crowdfunding
 cd crowdfunding
 npm install
 ```
